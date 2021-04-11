@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed-Mohd-Hubab&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Mohd-Hubab&layout=compact&langs_count=10)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Mohd-Hubab&layout=compact&langs_count=10)
 
 
